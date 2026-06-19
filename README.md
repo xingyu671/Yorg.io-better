@@ -1,3 +1,2 @@
-# Yorg.io
-
-> Creating copy of yorg io using JS
+yorg.io的性能优化版。
+原地址：yorg.io
